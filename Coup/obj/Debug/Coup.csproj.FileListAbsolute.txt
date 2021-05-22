@@ -1,0 +1,6 @@
+/Users/nmcintosh/RiderProjects/Coup/Coup/bin/Debug/Coup.exe
+/Users/nmcintosh/RiderProjects/Coup/Coup/bin/Debug/Coup.pdb
+/Users/nmcintosh/RiderProjects/Coup/Coup/obj/Debug/Coup.csprojAssemblyReference.cache
+/Users/nmcintosh/RiderProjects/Coup/Coup/obj/Debug/Coup.csproj.CoreCompileInputs.cache
+/Users/nmcintosh/RiderProjects/Coup/Coup/obj/Debug/Coup.exe
+/Users/nmcintosh/RiderProjects/Coup/Coup/obj/Debug/Coup.pdb
