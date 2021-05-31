@@ -1,5 +1,5 @@
 # CoupGame
-My attempt of the replicate the very fun card game that is 'Coup'. Essentially, this is a 'what-if' passion project for me to see how good my programming skills
+My attempt to replicate the very fun card game that is 'Coup'. Essentially, this is a 'what-if' passion project for me to see how good my programming skills
 are. I have the basic strucle of the game down but it's not really playable as of yet. The CPU isn't a smart opponenet. It just makes random moves. I almost aim
 to improve the inputs.
 
